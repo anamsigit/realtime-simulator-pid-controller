@@ -1,7 +1,7 @@
 # realtime-simulator-pid-controller
 Python-based real-time PID Controller simulator, tunning the proporsional, integral, and derivative variabel to see the difference has made in time series.
 
-- Web-based found here: https://pidcontroller.streamlit.app/
+- Web-based can be found here: https://pidcontroller.streamlit.app/
 - Desktop-based can be download here: https://drive.google.com/file/d/1bts_O1pE-on10PlXI7LHcEeEBQdZhwIa/view?usp=sharing
 
 ## Overview
