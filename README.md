@@ -10,7 +10,7 @@ A **PID (Proportional, Integral, Derivative)** controller is a widely used contr
 - **Derivative (D):** This term predicts the future error, based on the rate of change. It helps reduce overshooting and improves stability by responding to the rate of error change.
 
 By experimenting with the values of **P**, **I**, and **D**, users can tune the controller to achieve optimal system performance. 
-**Illustration 1:** ![illustration_1](illustration_1.jpeg)
+![illustration_1](illustration_1.jpeg)
 
 ## Watch the Demo
 
